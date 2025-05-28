@@ -1,11 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jayanth Varma Bhupathiraju
 ==================================================================================================================================================
 
-I am B.Jayanth Varma, a final-year B.Tech student at SRM AP University, with a strong foundation in Python, SQL, C, and C++. I am highly proficient in cloud computing, big data management, and software development, with experience in managing and contributing to technical projects. My skills extend beyond technical expertise to include strong team management, teamwork, communication, and time management abilities, enabling me to thrive in collaborative environments.
+Myself B. Jayanth Varma. I have recently completed my BTech from SRM University, AP, equipped
+with solid skills in Python, SQL, and Microsoft Excel. I am passionate about problem solving and data
+analysis, with strong logical reasoning and effective communication. I am eager to apply my technical and
+analytical abilities in roles such as System Engineer, Data Entry, or Operations Analyst to drive efficient
+processes and data-driven outcomes.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [jayanthvarmabhupathiraju@gmail.com](mailto:jayanthvarmabhupathiraju@gmail.com)
-* 🧠  I'm learning MongoDB
 
 <a href="https://www.github.com/BJAYANTHVARMA" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/BJAYANTHVARMA?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a><a href="https://www.x.com/BJAYANTHVARMA" target="_blank" rel="noreferrer"><img
